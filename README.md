@@ -1,3 +1,7 @@
+# Salmane Issa
+
+## Description
+
 This is a informative website all about anime. I
 I used some images of logos for the diffrent anime streaming platforms
 and "THE BOLD FONT" as the font for the site.
